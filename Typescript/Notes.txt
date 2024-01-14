@@ -1,0 +1,15 @@
+Typescript notes:
+
+// Define variables
+let flag: boolean = true;
+
+// Template String
+'x = ${this._x}, y = ${this._y}'
+
+// Parameter properties (Define and Assign at the same time)
+constructor(private _x: number, private _y: number){
+
+}
+
+// Interfaces
+A class can implement multiple interfaces
