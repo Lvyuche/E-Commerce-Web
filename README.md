@@ -1,3 +1,3 @@
 # E-Commerce Web
 
-first time MacOSs
+first time MacOS
